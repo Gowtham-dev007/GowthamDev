@@ -9,7 +9,9 @@ A clean, responsive personal portfolio website built with HTML, CSS, and JavaScr
 
 **Note:** GitHub Pages is currently returning a 404. See the [GitHub Pages Setup](#-github-pages-setup) section below to fix this.
 
-![Portfolio Preview](./Propic.png)
+<p align="center">
+  <img src="./Propic.png" width="300" height="300" style="border-radius:50%;" />
+</p>
 
 ## ✨ Features
 
